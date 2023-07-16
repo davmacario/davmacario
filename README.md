@@ -1,6 +1,17 @@
-### Hi there 👋
+## Hello there! 👀
+
+Welcome to my GitHub profile!
+
+- ❓ I am Davide, a Master's degree student at Politecnico di Torino and University of Illinois at Chicago
+- 📍 I am currently in Italy 🇮🇹
+- 📚 I'm interested in IoT, Cloud Computing, but also Machine Learning and AI
+- 🌱 Lately I have been learning about Docker and Linux
+
+Here are some of my projects! ⬇️
 
 <!--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davmacario)](https://github.com/anuraghazra/github-readme-stats)
+
 **davmacario/davmacario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
