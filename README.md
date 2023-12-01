@@ -8,6 +8,8 @@ Welcome to my GitHub profile!
 - 🌱 Lately I have been learning about Docker and Linux
 - 🎸 Student by day, bass player by night
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=davmacario)](https://git.io/streak-stats)
+
 Here are some of my projects! ⬇️
 
 <!--
