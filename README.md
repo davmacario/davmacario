@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!
 
 - ❓ I am Davide, an Italian 🇮🇹 Master's degree student at Politecnico di Torino and the University of Illinois at Chicago
-- 📍 I am currently in Chicago 🇺🇸
+- 📍 I am currently in Chicago 🇺🇸, where I am working on my Master's thesis (you can take a look [here](https://github.com/davmacario/MDI-LLM))
 - 📚 I'm interested in IoT and Cloud Computing, but also Machine Learning, AI and Computer Vision
 - 🌱 Lately, I have been learning about Docker and Linux
 - 🎸 Student by day, bass player by night
