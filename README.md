@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 - 🌱 Lately, I have been learning about Docker and Linux
 - 🎸 Student by day, bass player by night
 
-🔍👨🏻‍💻 I'm currently looking for jobs in software engineering (ML/AI, DevOps) ~ Here is my [resume](https://drive.google.com/file/d/1j6ik0jpvADijj3FMW2etlhWwS1-kWtAh/view?usp=sharing)
+🔍👨🏻‍💻 I'm currently looking for jobs in software engineering (ML/AI, DevOps) ~ here is my [resume](https://drive.google.com/file/d/1j6ik0jpvADijj3FMW2etlhWwS1-kWtAh/view?usp=sharing)!
 
 Here are some of my projects! ⬇️
 
