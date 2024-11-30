@@ -4,8 +4,9 @@ Welcome to my GitHub profile!
 
 - ❓ I am Davide, an Italian 🇮🇹 DevOps engineer
 - 📍 I am currently in the Utrecht, the Netherlands 🇳🇱, but I also spent some time in Chicago, USA 🇺🇸
-- 📚 I'm interested in Cloud Computing, CI/CD, Systems Architectures, but also Machine Learning, AI and Computer Vision
-- 🌱 I love learning, contributing to open source projects, and participating in hackathons! I dream to become an MLOps engineer
+- 📚 I'm interested in Cloud Computing, CI/CD, Systems Architecture, Machine Learning, AI and Computer Vision
+- 🌱 I love learning, contributing to open source projects, and participating in hackathons!
+- 🎯 I want to become an MLOps engineer
 - 💻 CLI Enthusiast, Neovim user
 - 🎸 Programmer by day, bass player by night
 
